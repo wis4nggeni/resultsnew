@@ -1,0 +1,3502 @@
+[Common Private/Public Key]
+- public static final String KEY_NEXT_EXPECTED_SYNC_MILLIS = "nextExpectedSyncMillis"
+path : /sources/com/amazon/whisperlink/rcm/ConfigurationSyncOperation.java
+
+- public static final String KEY_SYNC_FAILED_INTERVAL_DIVISOR = "configSyncFailedIntervalDivisor"
+path : /sources/com/amazon/whisperlink/rcm/ConfigurationSyncOperation.java
+
+- public static final String KEY_SYNC_MAX_INTERVAL_MILLIS = "configSyncMaxIntervalMillis"
+path : /sources/com/amazon/whisperlink/rcm/ConfigurationSyncOperation.java
+
+- public static final String KEY_SYNC_MIN_INTERVAL_MILLIS = "configSyncMinIntervalMillis"
+path : /sources/com/amazon/whisperlink/rcm/ConfigurationSyncOperation.java
+
+
+[Authorization_Basic]
+- basic events
+path : /sources/com/facebook/appevents/internal/d.java
+
+
+[Firebase]
+- modern-venture-600.firebaseio.com
+path : /resources/res/values/strings.xml
+
+
+[Google_API_Key]
+- AIzaSyBj9fu3nkI8yqKdT2H9BoD_QG6ln1-b4QQ
+path : /resources/res/values/strings.xml
+
+
+[Google_Cloud_Platform_OAuth]
+- 142970037978-r81kpr2pr32einjnjo5ln4qae6oi40n3.apps.googleusercontent.com
+path : /sources/com/tubitv/helpers/AccountHandler.java
+
+- 142970037978-t0a02gt66uefol3tp807lb82vofv6rk1.apps.googleusercontent.com
+path : /resources/res/values/strings.xml
+
+
+[IP_Address]
+- 1.3.6.1
+path : /sources/org/apache/http/impl/auth/NegotiateScheme.java
+
+- 1.3.6.1
+path : /sources/org/apache/http/impl/auth/SPNegoScheme.java
+
+- 127.0.0.1
+path : /sources/h/h/l/b/c/e.java
+
+- 127.0.0.2
+path : /sources/org/apache/http/conn/params/ConnRouteParams.java
+
+- 224.0.0.2
+path : /sources/com/amazon/whisperlink/jmdns/impl/constants/DNSConstants.java
+
+- 239.255.255.2
+path : /sources/h/h/l/b/d/d.java
+
+- 54.1.2.2
+path : /sources/org/apache/http/impl/auth/KerberosScheme.java
+
+- 54.1.2.2
+path : /sources/org/apache/http/impl/auth/NegotiateScheme.java
+
+
+[JSON_Web_Token]
+- c.cdn77.org
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ak.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.al.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ar.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.as.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.az.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ca.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.co.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ct.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.dc.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.de.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.fl.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ga.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.gu.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ia.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.id.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.il.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.in.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ks.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ky.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.la.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ma.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.md.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.me.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.mi.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.mn.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.mo.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ms.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.mt.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.nc.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ne.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.nh.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.nj.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.nm.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.nv.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ny.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.oh.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ok.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.or.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.pa.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.pr.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ri.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.sc.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.tn.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.tx.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.ut.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.va.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.vi.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.vt.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.wa.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.wi.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- k12.wy.us
+path : /resources/mozilla/public-suffix-list.txt
+
+- r.cdn77.net
+path : /resources/mozilla/public-suffix-list.txt
+
+- rsc.cdn77.org
+path : /resources/mozilla/public-suffix-list.txt
+
+- s3.amazonaws.com
+path : /resources/mozilla/public-suffix-list.txt
+
+- u2.xnbay.com
+path : /resources/mozilla/public-suffix-list.txt
+
+- uk0.bigv.io
+path : /resources/mozilla/public-suffix-list.txt
+
+- version=1.0.0
+path : /resources/video.properties
+
+- version=16.0.0
+path : /resources/firebase-annotations.properties
+
+- version=16.0.0
+path : /resources/play-services-cloud-messaging.properties
+
+- version=17.0.0
+path : /resources/firebase-components.properties
+
+- version=17.0.0
+path : /resources/firebase-encoders.properties
+
+- version=17.0.0
+path : /resources/firebase-iid-interop.properties
+
+- version=17.0.0
+path : /resources/firebase-installations-interop.properties
+
+- version=17.0.0
+path : /resources/firebase-installations.properties
+
+- version=17.0.0
+path : /resources/play-services-ads-identifier.properties
+
+- version=17.0.0
+path : /resources/play-services-analytics-impl.properties
+
+- version=17.0.0
+path : /resources/play-services-analytics.properties
+
+- version=17.0.0
+path : /resources/play-services-auth-api-phone.properties
+
+- version=17.0.0
+path : /resources/play-services-auth-base.properties
+
+- version=17.0.0
+path : /resources/play-services-clearcut.properties
+
+- version=17.0.0
+path : /resources/play-services-flags.properties
+
+- version=17.0.0
+path : /resources/play-services-phenotype.properties
+
+- version=17.0.0
+path : /resources/play-services-places-placereport.properties
+
+- version=17.0.0
+path : /resources/play-services-stats.properties
+
+- version=17.0.0
+path : /resources/play-services-tagmanager-v4-impl.properties
+
+- version=17.0.10
+path : /resources/firebase-datatransport.properties
+
+- version=17.1.0
+path : /resources/play-services-pal.properties
+
+- version=17.2.0
+path : /resources/play-services-tasks.properties
+
+- version=17.5.0
+path : /resources/play-services-base.properties
+
+- version=17.5.0
+path : /resources/play-services-basement.properties
+
+- version=18.0.0
+path : /resources/firebase-encoders-json.properties
+
+- version=18.0.0
+path : /resources/play-services-location.properties
+
+- version=18.1.0
+path : /resources/firebase-crashlytics.properties
+
+- version=19.0.0
+path : /resources/firebase-analytics.properties
+
+- version=19.0.0
+path : /resources/firebase-measurement-connector.properties
+
+- version=19.0.0
+path : /resources/play-services-auth.properties
+
+- version=19.0.0
+path : /resources/play-services-cast-framework.properties
+
+- version=19.0.0
+path : /resources/play-services-cast.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement-api.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement-base.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement-impl.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement-sdk-api.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement-sdk.properties
+
+- version=19.0.0
+path : /resources/play-services-measurement.properties
+
+- version=19.0.7
+path : /resources/firebase-perf.properties
+
+- version=20.0.0
+path : /resources/firebase-abt.properties
+
+- version=20.0.0
+path : /resources/firebase-common.properties
+
+- version=20.0.4
+path : /resources/firebase-config.properties
+
+- version=21.0.1
+path : /resources/firebase-iid.properties
+
+- version=21.0.1
+path : /resources/firebase-messaging.properties
+
+- version=3.0.0
+path : /resources/transport-api.properties
+
+- version=3.0.0
+path : /resources/transport-backend-cct.properties
+
+- version=3.0.1
+path : /resources/transport-runtime.properties
+
+- video_client=1.0.0
+path : /resources/video.properties
+
+
+[LinkFinder]
+- /..."
+path : /sources/okhttp3/HttpUrl.java
+- /Any"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/JvmNameResolver.java
+- /META-INF/maven/javax.jmdns/jmdns/pom.properties"
+path : /sources/com/amazon/whisperlink/jmdns/impl/JmDNSImpl.java
+- /RcUmTOFoVKQmYTx4SXUI3MZ+V8YeEVVMyskmyn2LKriaejeXpUmZci+LjJRw7Qi"
+path : /sources/com/google/android/gms/internal/pal/f.java
+- /Unit"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- /_strong_match?os="
+path : /sources/io/branch/referral/BranchStrongMatchHelper.java
+- /adBreakStart  "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBreakStart"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBreakStart"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adBreakStop  "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBreakStop"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBreakStop"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adBufferUnderrun "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBufferUnderrun"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adBufferUnderrun"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adClick "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adClick"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adClick"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adError  "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adError"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adError"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adInit "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adInit"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adInit"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adJoin "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adJoin"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adJoin"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adManifest  "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adManifest"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adManifest"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adPause at "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adPause"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adPause"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adQuartile"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adResume "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adResume"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adResume"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adStart "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adStart"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adStart"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /adStop "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adStop"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /adStop"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /ad_revenue"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /analytics-ingestion/v2/single-event"
+path : /sources/com/tubitv/core/api/interfaces/AnalyticsInvestigationApi.java
+- /android_asset/"
+path : /sources/com/google/android/exoplayer2/upstream/d.java
+- /android_asset/"
+path : /sources/com/google/android/exoplayer2/upstream/n.java
+- /ap/oa"
+path : /sources/com/amazon/identity/auth/device/authorization/b.java
+- /api/v1/epg"
+path : /sources/com/tubitv/common/api/interfaces/LiveChannelEPGApi.java
+- /api/v1/queues"
+path : /sources/com/tubitv/common/api/interfaces/UserQueueApi.java
+- /auth/o2/token"
+path : /sources/com/amazon/identity/auth/device/endpoint/d.java
+- /auth/relyingPartyLogout"
+path : /sources/com/amazon/identity/auth/device/endpoint/k.java
+- /batch"
+path : /sources/com/google/android/gms/internal/gtm/s0.java
+- /bufferUnderrun to "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /bufferUnderrun"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /bufferUnderrun"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /cmdline"
+path : /sources/com/google/android/gms/common/util/n.java
+- /collect"
+path : /sources/com/google/android/gms/internal/gtm/s0.java
+- /config/user_preferences/selections"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /data"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /data"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /datascience/evaluate/namespaces"
+path : /sources/com/tubitv/common/api/interfaces/ExperimentsApi.java
+- /datascience/logging"
+path : /sources/com/tubitv/core/api/interfaces/CoreUnifiedApiWithoutAuth.java
+- /device/preferences/rate"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /device/preferences/rate/{target}/{value}"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /device/register"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /disable_third_party_sharing"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /dumpapp"
+path : /sources/com/facebook/stetho/dumpapp/DumpappHttpSocketLikeHandler.java
+- /epg/programming"
+path : /sources/com/tubitv/common/api/interfaces/LiveChannelProgrammingApi.java
+- /error  "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /error"
+path : /sources/com/npaw/youbora/lib6/comm/transform/a.java
+- /error"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /error"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /error"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /event"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /gdpr_forget_device"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /index.html"
+path : /sources/okhttp3/internal/http2/Hpack.java
+- /infinity/session/beat"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /infinity/session/beat"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /infinity/session/event"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /infinity/session/nav"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /infinity/session/nav"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /infinity/session/start"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /infinity/session/start"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /infinity/session/start"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /infinity/session/stop"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /infinity/video/event"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /init "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /init"
+path : /sources/com/npaw/youbora/lib6/comm/transform/a.java
+- /init"
+path : /sources/com/npaw/youbora/lib6/comm/transform/b.java
+- /init"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /init"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /init"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /inspector"
+path : /sources/com/facebook/stetho/inspector/ChromeDevtoolsServer.java
+- /joinTime "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /joinTime"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /joinTime"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /json"
+path : /sources/com/facebook/stetho/inspector/ChromeDiscoveryHandler.java
+- /json/activate/1"
+path : /sources/com/facebook/stetho/inspector/ChromeDiscoveryHandler.java
+- /json/version"
+path : /sources/com/facebook/stetho/inspector/ChromeDiscoveryHandler.java
+- /jvm/functions/Function"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- /jvm/internal/"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- /matrix/live_programming"
+path : /sources/com/tubitv/core/network/m/f.java
+- /me/"
+path : /sources/com/facebook/GraphRequest.java
+- /me/permissions"
+path : /sources/com/tubitv/helpers/p.java
+- /mozilla/public-suffix-list.txt"
+path : /sources/org/apache/http/conn/util/PublicSuffixMatcherLoader.java
+- /offlineEvents"
+path : /sources/com/npaw/youbora/lib6/comm/transform/a.java
+- /offlineEvents"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /pause at "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /pause"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /pause"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /ping"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /ping"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /ping"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /proc/"
+path : /sources/com/google/android/gms/common/util/n.java
+- /proc/"
+path : /sources/com/google/android/gms/internal/p001firebaseperf/c0.java
+- /proc/meminfo"
+path : /sources/com/google/firebase/crashlytics/internal/common/l.java
+- /proc/self/cmdline"
+path : /sources/com/facebook/stetho/common/ProcessUtil.java
+- /proc/self/fd"
+path : /sources/com/bumptech/glide/load/resource/bitmap/p.java
+- /proc/self/fd/"
+path : /sources/androidx/core/graphics/e.java
+- /product/etc"
+path : /sources/com/tubitv/common/base/presenters/j.java
+- /query/active-app"
+path : /sources/h/h/l/b/d/h.java
+- /query/apps"
+path : /sources/h/h/l/b/d/h.java
+- /raw/"
+path : /sources/com/google/firebase/messaging/a.java
+- /resume "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /resume"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /resume"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /sbin/su"
+path : /sources/com/tubitv/core/utils/e.java
+- /sdk_click"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /sdk_info"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /search"
+path : /resources/AndroidManifest.xml
+- /seek to "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /seek"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /seek"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /seekThumbnail/"
+path : /sources/com/tubitv/features/player/models/g0.java
+- /session"
+path : /sources/com/adjust/sdk/PackageBuilder.java
+- /shared_prefs"
+path : /sources/com/facebook/stetho/dumpapp/plugins/SharedPreferencesDumperPlugin.java
+- /shared_prefs"
+path : /sources/com/facebook/stetho/inspector/domstorage/SharedPreferencesHelper.java
+- /start "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/comm/transform/a.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/comm/transform/b.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/comm/transform/c.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/comm/transform/d.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /start"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /stat"
+path : /sources/com/google/android/gms/internal/p001firebaseperf/c0.java
+- /stop at "
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /stop"
+path : /sources/com/npaw/youbora/lib6/comm/transform/b.java
+- /stop"
+path : /sources/com/npaw/youbora/lib6/plugin/Plugin.java
+- /stop"
+path : /sources/com/npaw/youbora/lib6/plugin/b.java
+- /sys/class/net/"
+path : /sources/com/adjust/sdk/MacAddressUtil.java
+- /sys/devices/system/cpu/"
+path : /sources/com/bumptech/glide/load/engine/executor/a.java
+- /sys/devices/system/cpu/"
+path : /sources/com/facebook/internal/Utility.java
+- /system/app/Superuser.apk"
+path : /sources/com/google/firebase/crashlytics/internal/common/l.java
+- /system/app/Superuser.apk"
+path : /sources/com/tubitv/core/utils/e.java
+- /system/bin/getprop"
+path : /sources/bo/app/v4.java
+- /system/bin/kill"
+path : /sources/com/facebook/stetho/dumpapp/plugins/CrashDumperPlugin.java
+- /system/xbin/su"
+path : /sources/com/google/firebase/crashlytics/internal/common/l.java
+- /topics/"
+path : /sources/com/google/firebase/iid/o.java
+- /topics/"
+path : /sources/com/google/firebase/messaging/s.java
+- /topics/"
+path : /sources/com/google/firebase/messaging/z.java
+- /user/check_birthday_info"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user/email_available"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user/login"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user/profile"
+path : /sources/com/amazon/identity/auth/device/endpoint/q.java
+- /user/{user_id}/preferences/rate"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user/{user_id}/preferences/rate/{target}/{value}"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user/{user_id}/settings/preferences"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /user_device/code/register"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApi.java
+- /user_device/config/{platform}"
+path : /sources/com/tubitv/core/api/interfaces/CoreUnifiedApiWithoutAuth.java
+- /user_device/device/register"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApiWithoutAuthorization.java
+- /user_device/login"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApiWithoutAuthorization.java
+- /user_device/login/refresh"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApi.java
+- /user_device/logout"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApi.java
+- /user_device/password/reset"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApiWithoutAuthorization.java
+- /user_device/signup"
+path : /sources/com/tubitv/common/api/interfaces/UnifiedApiWithoutAuthorization.java
+- /user_device/users/{id}/settings"
+path : /sources/com/tubitv/common/api/interfaces/AccountApi.java
+- /v1/{resource=**}:getAcl"
+path : /resources/google/protobuf/api.proto
+- /v2/acls/{resource=**}:getAcl"
+path : /resources/google/protobuf/api.proto
+- /v2/{resource=**}"
+path : /resources/google/protobuf/api.proto
+- /v2/{resource=**}:getAcl"
+path : /resources/google/protobuf/api.proto
+- /videos"
+path : /sources/com/facebook/GraphRequest.java
+- /webcache"
+path : /sources/wendu/dsbridge/DWebView.java
+- /websocket"
+path : /sources/org/phoenixframework/i.java
+- /webviewCache"
+path : /sources/wendu/dsbridge/DWebView.java
+- AES/CBC/PKCS5PADDING"
+path : /sources/com/google/android/exoplayer2/upstream/cache/CachedContentIndex.java
+- AES/CBC/PKCS5Padding"
+path : /sources/com/google/android/gms/internal/pal/l.java
+- AES/CBC/PKCS5Padding"
+path : /sources/com/tubitv/common/base/presenters/l/f.java
+- AES/CBC/PKCS5Padding"
+path : /sources/h/b/a/a/a/m/b.java
+- AES/CBC/PKCS7Padding"
+path : /sources/com/google/android/exoplayer2/source/hls/d.java
+- AES/CTR/NOPADDING"
+path : /sources/com/google/android/gms/internal/pal/ha.java
+- AES/CTR/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/ea.java
+- AES/CTR/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/la.java
+- AES/ECB/NOPADDING"
+path : /sources/com/google/android/gms/internal/pal/ga.java
+- AES/ECB/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/kb.java
+- AES/GCM-SIV/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/n3.java
+- AES/GCM-SIV/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/y2.java
+- AES/GCM/NoPadding"
+path : /sources/com/amazon/whisperlink/service/securekeyexchange/AesGcmCipher.java
+- AES/GCM/NoPadding"
+path : /sources/com/google/android/gms/internal/pal/ja.java
+- A_DTS/EXPRESS"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- A_DTS/LOSSLESS"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- A_MS/ACM"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- A_PCM/INT/LIT"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- Africa/Addis_Ababa"
+path : /sources/j$/time/ZoneId.java
+- Africa/Cairo"
+path : /sources/j$/time/ZoneId.java
+- Africa/Harare"
+path : /sources/j$/time/ZoneId.java
+- Africa/Sao_Tome"
+path : /sources/j$/time/format/o.java
+- America/Anchorage"
+path : /sources/j$/time/ZoneId.java
+- America/Argentina/Buenos_Aires"
+path : /sources/j$/time/ZoneId.java
+- America/Chicago"
+path : /sources/j$/time/ZoneId.java
+- America/Indiana/Indianapolis"
+path : /sources/j$/time/ZoneId.java
+- America/Los_Angeles"
+path : /sources/j$/time/ZoneId.java
+- America/Phoenix"
+path : /sources/j$/time/ZoneId.java
+- America/Puerto_Rico"
+path : /sources/j$/time/ZoneId.java
+- America/Sao_Paulo"
+path : /sources/j$/time/ZoneId.java
+- America/St_Johns"
+path : /sources/j$/time/ZoneId.java
+- AndroidManifest.xml"
+path : /sources/com/google/android/play/core/internal/au.java
+- AndroidManifest.xml"
+path : /sources/h/h/g/h/b.java
+- Asia/Dhaka"
+path : /sources/j$/time/ZoneId.java
+- Asia/Ho_Chi_Minh"
+path : /sources/j$/time/ZoneId.java
+- Asia/Karachi"
+path : /sources/j$/time/ZoneId.java
+- Asia/Kolkata"
+path : /sources/j$/time/ZoneId.java
+- Asia/Shanghai"
+path : /sources/j$/time/ZoneId.java
+- Asia/Tokyo"
+path : /sources/j$/time/ZoneId.java
+- Asia/Yerevan"
+path : /sources/j$/time/ZoneId.java
+- Australia/Darwin"
+path : /sources/j$/time/ZoneId.java
+- Australia/Sydney"
+path : /sources/j$/time/ZoneId.java
+- Brazil/Acre"
+path : /sources/j$/time/format/o.java
+- DES/ECB/NoPadding"
+path : /sources/org/apache/http/impl/auth/NTLMEngineImpl.java
+- Egypt/Masr"
+path : /resources/mozilla/public-suffix-list.txt
+- Europe/Paris"
+path : /sources/j$/time/ZoneId.java
+- GA/LogCatTransport"
+path : /sources/com/google/android/gms/analytics/h.java
+- M/d/yy"
+path : /sources/com/google/gson/internal/PreJava9DateFormatProvider.java
+- META-INF/services/"
+path : /sources/kotlinx/coroutines/internal/h.java
+- MM/dd/yyyy"
+path : /sources/h/h/l/a/b/a.java
+- Morocco/al-Maghrib"
+path : /resources/mozilla/public-suffix-list.txt
+- OJV6xVIR1eh7tYy9riemmYtkPaU/NBCWvnOl95ehf5cPSRNoet0V98Y76fm3gKIx"
+path : /sources/com/google/android/gms/internal/pal/f.java
+- Pacific/Apia"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Auckland"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Guadalcanal"
+path : /sources/j$/time/ZoneId.java
+- Pacific/Rarotonga"
+path : /sources/j$/time/format/o.java
+- Pop/Funk"
+path : /sources/com/google/android/exoplayer2/extractor/mp4/h.java
+- R75TFH8UxzX6KzwmMOIAiEOgZ3w/LZFVVBMgCkszL4MS7jU6KCq3bFshhYLpG/lm"
+path : /sources/com/google/android/gms/internal/pal/f.java
+- RSA/ECB/PKCS1Padding"
+path : /sources/h/b/a/a/a/m/b.java
+- S_HDMV/PGS"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- S_TEXT/ASS"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- S_TEXT/UTF8"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MPEG4/ISO/AP"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MPEG4/ISO/ASP"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MPEG4/ISO/AVC"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MPEG4/ISO/SP"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MPEGH/ISO/HEVC"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- V_MS/VFW/FOURCC"
+path : /sources/com/google/android/exoplayer2/extractor/mkv/c.java
+- Zhongguo/China"
+path : /resources/mozilla/public-suffix-list.txt
+- api_key.txt"
+path : /sources/h/b/a/a/a/r/m.java
+- appboy-html-in-app-message-javascript-component.js"
+path : /sources/com/appboy/ui/inappmessage/InAppMessageWebViewClient.java
+- branch.json"
+path : /sources/io/branch/referral/e.java
+- collections/Iterable"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- collections/Mutable"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- collections/MutableIterable"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- config/app/"
+path : /sources/com/google/android/gms/measurement/internal/m9.java
+- content/unknown"
+path : /sources/com/facebook/GraphRequest.java
+- content://android.media.tv/channel"
+path : /sources/g/q/a/a/g.java
+- content://android.media.tv/preview_program"
+path : /sources/g/q/a/a/g.java
+- content://android.media.tv/watch_next_program"
+path : /sources/g/q/a/a/g.java
+- content://com.amazon.whisperlink.settings/wpsettings"
+path : /sources/com/amazon/whisperlink/android/util/WhisperLinkSettingsManager.java
+- content://com.facebook.katana.provider.AttributionIdProvider"
+path : /sources/com/adjust/sdk/a.java
+- content://com.google.android.gms.phenotype/"
+path : /sources/com/google/android/gms/internal/measurement/v5.java
+- content://com.google.android.gms.phenotype/"
+path : /sources/h/d/a/b/d/b.java
+- content://com.google.android.gsf.gservices"
+path : /sources/com/google/android/gms/internal/clearcut/d5.java
+- content://com.google.android.gsf.gservices"
+path : /sources/com/google/android/gms/internal/measurement/i5.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/com/google/android/gms/internal/clearcut/d5.java
+- content://com.google.android.gsf.gservices/prefix"
+path : /sources/com/google/android/gms/internal/measurement/i5.java
+- content://com.google.android.mediahome.video"
+path : /sources/h/d/a/d/a/c.java
+- content://com.google.android.mediahome.video/channel"
+path : /sources/h/d/a/d/a/e.java
+- content://com.google.android.mediahome.video/preview_program"
+path : /sources/h/d/a/d/a/e.java
+- content_cards/sync"
+path : /sources/bo/app/f3.java
+- device/login"
+path : /sources/com/facebook/login/d.java
+- device/login_status"
+path : /sources/com/facebook/login/d.java
+- device/settings/notifications?utm_campaign={utm_campaign}&utm_source={utm_source}&utm_medium={utm_medium}&utm_content={utm_content}"
+path : /sources/com/tubitv/features/deeplink/MobileDeepLinkRepository.java
+- device/share"
+path : /sources/com/facebook/share/internal/a.java
+- devtools.html"
+path : /sources/com/facebook/stetho/inspector/ChromeDiscoveryHandler.java
+- font/Courgette-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/Courier-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/FlorencesansSC-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/Itim-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/Lora-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/Roboto-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/UbuntuMono-Regular.ttf"
+path : /sources/com/tubitv/features/player/models/k.java
+- font/vaud_tubi_med.otf"
+path : /sources/com/tubitv/features/player/models/k.java
+- geofence/report"
+path : /sources/bo/app/j3.java
+- geofence/request"
+path : /sources/bo/app/i3.java
+- http://content.production-public.tubi.io/"
+path : /sources/com/tubitv/core/network/b.java
+- http://content.production-public.tubi.io/"
+path : /sources/h/h/e/a/f.java
+- http://dashif.org/guidelines/last-segment-number"
+path : /sources/com/google/android/exoplayer2/source/dash/h/c.java
+- http://dashif.org/guidelines/trickmode"
+path : /sources/com/google/android/exoplayer2/source/dash/d.java
+- http://dashif.org/guidelines/trickmode"
+path : /sources/com/google/android/exoplayer2/source/dash/h/c.java
+- http://legal-asset.tubi.tv/do-not-sell.html"
+path : /sources/com/tubitv/viewmodel/k.java
+- http://legal-asset.tubi.tv/do-not-sell.html"
+path : /sources/h/h/l/f/a.java
+- http://legal-asset.tubi.tv/privacy-policy.html"
+path : /sources/com/tubitv/viewmodel/k.java
+- http://legal-asset.tubi.tv/privacy-policy.html"
+path : /sources/h/h/l/f/a.java
+- http://ns.adobe.com/xap/1.0/\u0000"
+path : /sources/g/j/a/a.java
+- http://play.google.com/store/apps/details?id=%s"
+path : /sources/com/tubitv/common/base/presenters/l/a.java
+- http://play.google.com/store/apps/details?id=%s"
+path : /sources/com/tubitv/core/utils/a.java
+- http://plus.google.com/"
+path : /sources/com/google/ads/conversiontracking/o.java
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_bottom_end.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_bottom_start.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_gravity_top_start.xml
+- http://schemas.android.com/apk/res-auto"
+path : /resources/res/xml/standalone_badge_offset.xml
+- http://schemas.android.com/apk/res-auto"
+path : /sources/com/google/android/material/chip/ChipDrawable.java
+- http://schemas.android.com/apk/res/android"
+path : /resources/AndroidManifest.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_grow_fade_in_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_popup_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_shrink_fade_out_from_bottom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/abc_tooltip_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/bottom_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/bottom_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/design_snackbar_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_close_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_close_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_fade_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_fade_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_fast_out_extra_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_open_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/fragment_open_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/landscape_all_channels_recyclerview_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_bottom_sheet_slide_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/mtrl_card_lowers_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/right_enter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/right_exit.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/text_fade_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/text_fade_out.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/anim/tubi_tv_loading_spinner_rotate.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/activity_main_login_indicator_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_appbar_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/design_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line1_head_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line1_tail_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line2_head_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/linear_indeterminate_line2_tail_interpolator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_btn_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_card_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_chip_state_list_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_extended_fab_state_list_animator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_hide_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_show_motion_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/animator/scale_with_alpha.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_button_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_clockface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-night/material_timepicker_modebutton_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_btn_colored_borderless_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_btn_colored_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_color_highlight_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_btn_checkable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_edittext.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_seek_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_spinner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color-v23/abc_tint_switch_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_background_cache_hint_selector_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_borderless_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_btn_colored_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_hint_foreground_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_disable_only_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_primary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_search_url_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_secondary_text_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_btn_checkable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_edittext.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_seek_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_spinner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/abc_tint_switch_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/activity_abstract_nav_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/checkbox_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/com_appboy_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/com_facebook_button_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/common_google_signin_btn_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_box_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/design_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/landscape_all_channels_filter_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_cursor_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_background_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_primary_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_high_type.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_emphasis_medium.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_on_surface_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_active_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_halo_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_tick_marks_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_inactive_track_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_slider_thumb_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_button_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_clock_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_clockface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/material_timepicker_modebutton_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_item_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_bottom_nav_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_stroke_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_btn_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_item_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_calendar_selected_range.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_foreground.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_card_view_ripple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_close_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_surface_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_choice_chip_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_bg_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_icon_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_fab_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_filled_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_indicator_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_navigation_item_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_on_surface_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_icon_tint.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_outlined_stroke_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_popupmenu_overlay_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_icon_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_legacy_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_tabs_ripple_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/mtrl_text_btn_text_color_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/neutral_300_neutral_100_text_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/neutral_300_white_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/neutral_400_white_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/radiobutton_themeable_attribute_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/selector_age_gate_text_box_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/selector_home_filter_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/selector_home_filter_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/switch_thumb_material_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/test_mtrl_calendar_day_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/tubi_button_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/tubi_floating_action_button_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/white_golden_gate_origen_text_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/white_vulcan_blue_select_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/color/white_vulcan_blue_text_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$ic_personalization_icon__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$live_channel_detail_cover_background__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$quick_seek_background_overlay_forward__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$quick_seek_background_overlay_rewind__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/$quick_seek_educate_background_overlay__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_add_to_continue_watching.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_chevron_arrow_small.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_fb_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_full_screen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_kids_logo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_main_tab_search.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_pause_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_personalization_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_personalization_right_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_personalize.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_rewind.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_see_more_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_settings.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/ic_tubi_logo_white_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/icon_settings.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/live_channel_detail_cover_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/mobile_tubi_tv_subtitles_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/mobile_tubi_tv_subtitles_off_faded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/mobile_tubi_tv_subtitles_on.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/mobile_tubi_tv_subtitles_on_faded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/personalization_both_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/quick_seek_background_overlay_forward.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/quick_seek_background_overlay_rewind.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/quick_seek_educate_background_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/quick_seek_educate_tap_left.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/quick_seek_educate_tap_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/tubi_tv_chromecast_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/tubi_tv_chromecast_off_pressed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/tubi_tv_chromecast_on.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi-v24/tubi_tv_chromecast_on_pressed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/exo_icon_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/exo_icon_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/ic_checked_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/ic_unchecked_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/ic_vol_mute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-anydpi/ic_vol_unmute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/chrome_cast_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_card_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_content_card_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_content_cards_rounded_corner_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_content_cards_unread_bar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_inappmessage_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_inappmessage_modal_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/com_appboy_inappmessage_slideup_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/kids_mode_chrome_cast_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-nodpi/loading_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-v23/abc_control_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-v23/mtrl_popupmenu_background_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/common_google_signin_btn_text_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/common_google_signin_btn_text_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-watch/common_google_signin_btn_text_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-xhdpi/mobile_forward_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-xhdpi/mobile_rewind_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-xxxhdpi/kids_mode_toolbar_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable-xxxhdpi/toolbar_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_hide_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/$avd_show_password__2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_action_bar_item_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_borderless_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_check_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_colored_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_default_mtrl_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_btn_radio_material_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_internal_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_cab_background_top_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_dialog_material_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_edit_text_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_ab_back_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_clear_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_go_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_menu_overflow_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ic_voice_search_api_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_item_background_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_divider_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_background_transition_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_list_selector_holo_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_ratingbar_small_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_tick_mark_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_seekbar_track_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_spinner_textfield_background_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_switch_thumb_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_tab_indicator_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_text_cursor_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_textfield_search_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/abc_vector_test.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/activation_code_cursor_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/activity_abstract_nav_background_color.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/add_more.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/arrow_forward.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/arrow_right.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_hide_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/avd_show_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/background_enhanced_personalization.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/background_landscape_all_channels_filter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/boarder_enhanced_personalizaton_checked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/boarder_enhanced_personalizaton_unchecked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/browse_tab_text_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_mtrl.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/bullet_white_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_black_transparent_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_kids_mode_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_neutral_300.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_neutral_orange_round_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_orange_round_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_orange_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_personalize_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_secondary_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_sign_in_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_skip_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_transparent_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_variant3_fb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_variant3_reg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/button_white_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_expanded_controller_bg_gradient_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_expanded_controller_live_indicator_drawable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_expanded_controller_seekbar_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_expanded_controller_seekbar_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_closed_caption.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_forward30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_mute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_rewind30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_skip_next.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_skip_previous.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_expanded_controller_stop.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_closed_caption.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_forward30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_mute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_pause_large.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_play_large.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_rewind30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_skip_next.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_skip_prev.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_stop.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_mini_controller_stop_large.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_connecting.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_disconnect.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_forward.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_forward10.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_forward30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_rewind.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_rewind10.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_rewind30.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_skip_next.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_skip_prev.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_small_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_ic_notification_stop_live_stream.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_mini_controller_gradient_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_mini_controller_progress_drawable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_skip_ad_label_border.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/cast_tooltip_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/circle_button_neutral_golden_gate_orange.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/circle_button_neutral_hibiscus_pink.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/circle_stroke_neutral_300.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/clubhouse_box_border.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/clubhouse_box_border_green.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/clubhouse_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_auth_dialog_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_auth_dialog_cancel_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_auth_dialog_header_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_button_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_button_like_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/com_facebook_favicon_blue.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/coming_soon_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/coming_soon_trailer_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_icon_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_dark_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_disabled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_focused.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/common_google_signin_btn_text_light_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/content_detail_progress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/continue_watching_progress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/controller_view_ad_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/custom_seek_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/custom_seek_bar_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/custom_seek_bar_progress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/custom_seek_bar_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/data_save_alert_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/data_save_alert_switch_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_bottom_navigation_item_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_fab_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_ic_visibility_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_password_eye.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/design_snackbar_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/detail_page_season_dropdown_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/detail_share_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/detail_toolbar_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dialog_drm_error_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dialog_handle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dot_indicator_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dot_indicator_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/dot_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/drop_down_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/edit_text_color_cursor.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/epg_live_channel_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/epg_live_channel_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/epg_live_channel_program_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/epg_selected_live_channel_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/episode_tab_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fake_continue_watching_border_default.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fake_continue_watching_border_kids.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fb_button_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/featured_text_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fragment_content_detail_gray_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fragment_content_detail_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/fragment_kids_mode_content_detail_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/golden_gate_orange_oval.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/google_button_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/gradient_10141f_100_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/home_container_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/home_trailer_full_screen.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/home_trailer_watch_now.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_alert.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_arrow_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bell_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bookmarked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_bottom_dialog_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_channel_grid.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_channel_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_chevron_circle_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_chevron_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_close.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_close_btn.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_close_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_delete.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_detail_cc.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_disable_play_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_disabled_play_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_done.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_email.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_fb_email.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_fb_email_alert.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_fb_email_left_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_for_you_lock.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_forward_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_full_screen_off.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_full_screen_on.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_google.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_home_trailer_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_home_trailer_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_home_trailer_play_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_home_trailer_rewind.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_kids.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_latino.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_launcher_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_back_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_news_continue_watching.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_streaming.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_streaming_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_streaming_13.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_streaming_2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_live_streaming_3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_main_tab_account.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_main_tab_coming_soon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_main_tab_heart.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_main_tab_home.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_main_tab_live.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_black.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_checked_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mtrl_chip_close_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_mute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_my_list_not_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_my_list_selected.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_not_bookmarked.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_overflow_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_pause.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_dislike.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_done.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_like.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_undo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_undo_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_personalization_undo_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_play.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_play_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_play_rounded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_reminder.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_reminder_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_reminder_set_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_reminder_success.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_round_arrow_left.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_scale_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_share.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_small_chevron_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_small_chevron_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_sports.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_subtitle_enable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_subtitle_new.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_success.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_thumb_down_filled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_thumb_down_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_thumb_up_filled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_thumb_up_stroke.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_tv_shows.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_unmute.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_video_arrow_collapse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ic_video_arrow_expand.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/icon_done_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/kids_button_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/kids_mode_progress_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/kids_mode_view_banner_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/landscape_live_channel_bottom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/landscape_live_channel_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/list_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_list_channel_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_list_current_channel_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_list_current_channel_info_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_list_divider.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_channel_tab_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_icon_anim.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_tv_container_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_tv_tab_controller_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/live_tv_tab_player_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_cursor_drawable.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_calendar_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_clear_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_edit_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/material_ic_menu_arrow_up_black_24dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_ff_15_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_forward_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_forward_pressed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_pause_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_play_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_rewind_normal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_rewind_pressed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_rw_15_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_subtitles_off_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mobile_subtitles_on_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/movie_tvshow_button_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_connected_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_connected_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_connecting_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_connecting_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_dark_static.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_button_light_static.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_group_seekbar_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_mute_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_route_seekbar_track.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_stop.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_cast_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_dialog_close_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_dialog_close_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_dialog_material_background_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_dialog_material_background_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_group_collapse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_group_expand.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_pause_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_pause_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_play_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_play_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_stop_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_media_stop_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_vol_type_audiotrack_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mr_vol_type_audiotrack_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dialog_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_dropdown_arrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_arrow_drop_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_cancel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_ic_error.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_popupmenu_background_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/mtrl_tabs_default_indicator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/my_stuff_continue_watching_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/navigation_empty_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/neutral_100_95_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/neutral_300_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_action_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_bg_low.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_icon_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/notification_tile_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/nps_feedback_edit_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/password_show_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/personalization_movie_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/personalization_tv_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/picasso_placeholder_image.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/play_icon_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/player_control_bar_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/progress_circle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/progress_circle_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/progress_circle_golden_red_1dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/quick_seek_educate_tag_new.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/quick_seek_educate_tag_tap_here.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/quick_seek_educate_you_got_it.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/quick_seek_education_you_got_it.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/ranking_tag_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rating_bar_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_light_gray_rounded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_live_channel_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_live_channel_list_channel_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_4dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_6dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_6dp_neutral_300_16.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_8dp_mirage_blue.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_alert_yellow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_bottom_4dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_button_orange_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_dark_orange.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_golden_red.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_grey_a3.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_neutral_300.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_neutral_300_16.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_neutral_400.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_secondary_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_rounded_white_24.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_selected_golden_red_1dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_selected_golden_red_4dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_white_hollow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/rectangle_white_rounded.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/round_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/round_button_neutral_300.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/round_golden_red_check_mark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/search_box_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/search_default_title_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/search_history_clear_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/selection_band_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/selector_tv_drm_error_button_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/selector_tv_focus_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shadow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_oval_8dp_grey.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_rectangle_2dp_stoke_golden.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_round_rectangle_20dp.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_round_rectangle_2dp_goldengate.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_round_rectangle_2dp_white.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_round_rectangle_6dp_goldengate.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/shape_triangle_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/sign_up_prompt_top_bar_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/skip_intro_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/spinner_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/subtitle_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/switch_thumb.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/switch_track_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tag_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/test_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/thumb_down_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/thumb_up_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/toolbar_solid.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_dark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tooltip_frame_light.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/top_bottom_darker_gradient.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/trailer_tag_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/transparent_circle_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_progress_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_drawable_chromecast_off_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_drawable_chromecast_on_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_drawable_scrubber_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_player_ad_learn_more_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar_bg.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar_progress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar_secondary_progress.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar_thumb_normal_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tubi_tv_seek_bar_thumb_pressed_shape.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tv_auto_play_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tv_pause_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tv_play_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tv_subtitles_off_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/tv_subtitles_on_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/view_banner_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/watch_trailer_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/white_radius.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/drawable/white_text_selector.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mr_fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mr_linear_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_linear_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_fast_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/interpolator/mtrl_linear_out_slow_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/com_appboy_inappmessage_html_full.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/material_clock_period_toggle_land.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-land/material_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-ldrtl/material_textinput_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-sw600dp/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/activate_help_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/dialog_drm_error_mobile.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/dialog_drm_error_tv.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/dialog_live_channel_detail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/fragment_content_detail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/material_timepicker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/mtrl_alert_dialog_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/nps_feedback_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/nps_share_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v22/view_unlock_now.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-v26/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout-watch/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_bar_title_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_action_mode_close_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_button_bar_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_alert_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_cascading_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_dialog_title_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_expanded_menu_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_list_menu_item_radio.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_header_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_popup_menu_item_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_content_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_simple_overlay_action_mode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_screen_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_dropdown_item_icons_2line.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_search_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_select_dialog_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/abc_tooltip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/action_bar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activate_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activate_help_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activate_success_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_secondary_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/activity_tutorial_swipe.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/autoplay_episode_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/autoplay_movie_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/birthday_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browse_content_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browse_custom_tab.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browser_actions_context_menu_page.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/browser_actions_context_menu_row.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_autoplay_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_crew_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_expanded_controller_activity.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_help_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_intro_overlay.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_mini_controller.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_route_chooser_adapter_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_tracks_chooser_dialog_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/cast_tracks_chooser_dialog_row_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/category_fragment_genesis.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/clubhouse_spinner_text_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_banner_image_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_banner_image_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_captioned_image_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_captioned_image_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_content_cards.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_content_cards_activity.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_content_cards_empty.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_default_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_feed.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_feed_activity.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_feed_footer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_feed_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_feed_read_indicator_holder.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_full.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_full_graphic.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_html.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_html_full.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_modal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_modal_graphic.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_inappmessage_slideup.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_notification_story_one_image.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_short_news_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_short_news_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_stubbed_feed_image_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_text_announcement_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_text_announcement_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_appboy_webview_activity.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_facebook_activity_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_facebook_device_auth_dialog_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_facebook_login_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_facebook_smart_device_dialog_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/com_facebook_tooltip_bubble.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/coming_soon_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/controller_view_detail_trailer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/controller_view_home_trailer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/coppa_help_webview_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/custom_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/debug_fragment_dial_device_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_bottom_sheet_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_snackbar_include.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_layout_tab_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_menu_item_action_area.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_separator.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_item_subheader.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_navigation_menu_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_end_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/design_text_input_start_icon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_age_gate.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_category_filter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_clubhouse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_debug_setting.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_drm_error_mobile.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_drm_error_tv.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_full_screen_player.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_live_channel_detail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_live_channel_filter.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_loading.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_prompt.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_registration.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_registration_simple.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_remote_sign_in_confirm.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_remote_sign_in_success.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_sign_up.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_turn_on_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_tv_debug.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/dialog_upgrade.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/enhanced_personalization_great_job_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/epg_live_channel_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/epg_live_channel_horizontal_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/epg_live_channel_with_meta_data_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/epg_live_channel_without_meta_data_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/episode_drop_down.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/episode_list_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/exo_list_divider.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_about.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_available_device_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_building_my_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_capture_information.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_cast_mini_controller.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_category.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_coming_soon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_content_detail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_content_detail_pager.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_device_install_guide.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_discover.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enhaced_onboarding_pager.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enhanced_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enhanced_personalization.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enhanced_personalization_swipe_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_enhanced_register.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_epg_live_channel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_epg_live_channel_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_episode.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_facebook_email.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_for_you.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_for_you_settings.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_forgot_password.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_help_center.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_home_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_live_list.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_live_list_current_channel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_main.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_new_player.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_notification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_onboarding_view_pager.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_secondary_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_series.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_sign_in.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_sign_up_with_email.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_splash_animated.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_trailer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_tv_web.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/fragment_web_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/global_playerview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/home_filter_chips_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/home_trailer_playerview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_all_live_channels_channel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_closed_caption.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_coming_soon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_debug_experiment_setting.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_enhanced_personalization.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_live_channel_list_channel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_live_news_channel.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_seek_thumbnail.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/item_unsupported.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_closed_caption.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/layout_landscape_all_live_channels.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/list_horizontal_loading_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/list_vertical_loading_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_channel_filter_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_channel_in_pip_player_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_channel_tab_filter_buttons_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_news_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_news_full_screen_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_news_title_recycler_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_tab_filter_buttons_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_tab_filter_buttons_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/live_tv_tab_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/main_tab_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_chip_input_combo.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_display_divider.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clock_period_toggle.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clockface_textview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_clockface_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_radial_view_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_textinput_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_time_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_time_input.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/material_timepicker_textinput_display.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/menu_category_list_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mobile_autoplay_episode_item_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mobile_autoplay_movie_item_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mobile_autoplay_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mobile_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mobile_controller_view_ad_learn_more.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/movie_detail_section.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/movie_tvshow_buttons_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_group_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_group_volume_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_header_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_media_metadata.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_cast_route_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_chooser_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_chooser_list_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_controller_material_dialog_b.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_controller_volume_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_picker_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_picker_header_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_picker_route_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_playback_control.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mr_volume_control.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_actions.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_dialog_title.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_multichoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_alert_select_dialog_singlechoice.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_day_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_days_of_week.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_horizontal.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_labeled.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_month_navigation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_months.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_vertical.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_calendar_year.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/mtrl_layout_snackbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_action_tombstone.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_media_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_media_cancel_action.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_narrow.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_big_media_narrow_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_custom_big.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_icon_group.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_lines_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_media.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_media_custom.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_chronometer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/notification_template_part_time.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_feedback_fragment.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_prompt_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_rating_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_score_item_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_score_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/nps_share_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/personalization_card_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/personalization_loading_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/personalization_summary_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/pip_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/player_core_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/player_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/popup_remote_sign_in_prompt.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/program_show.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/quick_seek_educate.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/search_default_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/search_grid_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_item_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_multichoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/select_dialog_singlechoice_material.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/support_simple_spinner_dropdown_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_action_chip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_chip_zero_corner_radius.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_checkbox.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_design_radiobutton.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_reflow_chipgroup.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_custom_background.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_elevation.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/test_toolbar_surface.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_appearance.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_layout.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_line_height_from_style.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_with_theme_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/text_view_without_line_height.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/three_dot_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/trailer_preview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tubi_cast_chooser_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tubi_fire_cast_controller_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_ad_choice_icon_dialog.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_autoplay_episode_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_autoplay_movie_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_autoplay_next_drawer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_autoplay_recycler_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_controller_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_main_activity.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/tv_preview_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_account_settings_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_add_more.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_appbot_empty_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_autoplay_controls.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_banner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_banner_image_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_browse.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_building_my_list_banner.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_captioned_image_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_category_add_more.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_category_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_content_info.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_continue_watching_my_stuff.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_continue_watching_registration_prompt.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_coppa_age_clarification.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_cw_my_stuff_full_image.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_cw_my_stuff_row.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_cw_my_stuff_see_all.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_data_save_alert.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_data_save_debug.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_data_save_setting.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_device_install_guide_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_device_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_dial_device_row.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_empty_my_list_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_empty_my_stuff_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_fire_tv_prompt.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_genre_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_group_browse_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_group_row_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_banner_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_banner_content.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_category_recycler.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_content.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_content_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_content_continue.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_continue_watching_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_live_news_variant2_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_sports_variant2_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_trailer.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_trailer_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_home_trailer_recycler_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_in_app_pip.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_item_coming_soon.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_list_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_live_news_home_variant1.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_live_news_home_variant2.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_loading_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_login_adapter_text.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_movie_title_item.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_my_stuff_continue_watching_container.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_rating.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_regular_tags.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_relate_content.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_relate_content_recycler.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_search.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_separator_on_signin_buttons.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_short_news_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_sign.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_sign_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_sign_in_up_header.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_snackbar_bookmark.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_snackbar_general.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_snackbar_playback_page.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_text_announcement_content_card.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_title_recycler_view.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_titlebar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_tubi_floating_action_button.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_tv_preview.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/layout/view_unlock_now.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/menu/activity_abstract_drawer_toolbar.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/menu/cast_expanded_controller.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/menu/live_channel_caption_menu.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/mipmap-anydpi-v26/ic_launcher_new.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/res/xml/searchable.xml
+- http://schemas.android.com/apk/res/android"
+path : /sources/androidx/core/content/res/f.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/google/android/material/chip/Chip.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/google/android/play/core/internal/au.java
+- http://schemas.android.com/apk/res/android"
+path : /sources/com/tubitv/common/base/views/ui/TubiButton.java
+- http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+path : /sources/com/google/android/exoplayer2/drm/s.java
+- http://tensor.production-public.tubi.io/"
+path : /sources/h/h/e/a/f.java
+- http://tubitv.com/"
+path : /sources/com/tubitv/core/deeplink/DeepLinkConsts.java
+- http://www.amazon.com/gp/mas/dl/android?p=%s"
+path : /sources/com/tubitv/common/base/presenters/l/a.java
+- http://www.amazon.com/gp/mas/dl/android?p=%s"
+path : /sources/com/tubitv/core/utils/a.java
+- http://www.google-analytics.com"
+path : /sources/com/google/android/gms/internal/gtm/s0.java
+- http://www.w3.org/ns/ttml#parameter"
+path : /sources/com/google/android/exoplayer2/text/n/a.java
+- http://xmlpull.org/v1/doc/features.html#process-namespaces"
+path : /sources/com/amazon/whisperlink/port/platform/PluginSettingsParser.java
+- https://.facebook.com"
+path : /sources/com/facebook/internal/Utility.java
+- https://account.production-public.tubi.io"
+path : /sources/h/h/e/a/f.java
+- https://accounts.google.com/o/oauth2/revoke?token="
+path : /sources/com/google/android/gms/auth/api/signin/internal/g.java
+- https://analytics-ingestion.production-public.tubi.io/"
+path : /sources/com/tubitv/core/network/e.java
+- https://aomedia.org/emsg/ID3"
+path : /sources/com/google/android/exoplayer2/metadata/d/a.java
+- https://apac.account.amazon.com"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api-sandbox.amazon.co.jp"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api.amazon.co.jp"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api.amazon.co.uk"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api.amazon.com"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api.clubhouse.io/api/v3/"
+path : /sources/com/tubitv/common/api/interfaces/ClubhouseApi.java
+- https://api.clubhouse.io/api/v3/"
+path : /sources/h/h/e/a/f.java
+- https://api.sandbox.amazon.co.uk"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api.sandbox.amazon.com"
+path : /sources/h/b/a/a/a/n/c.java
+- https://api2.branch.io/"
+path : /sources/io/branch/referral/w.java
+- https://app-measurement.com/a"
+path : /sources/com/google/android/gms/internal/measurement/db.java
+- https://app-measurement.com/a"
+path : /sources/com/google/android/gms/measurement/internal/d3.java
+- https://app.adjust.com"
+path : /sources/com/adjust/sdk/AdjustFactory.java
+- https://app.adjust.com"
+path : /sources/com/adjust/sdk/Constants.java
+- https://arcus-uswest.amazon.com"
+path : /sources/com/amazonaws/mobileconnectors/remoteconfiguration/a.java
+- https://bnc.lt/a/"
+path : /sources/io/branch/referral/z.java
+- https://cdn.branch.io/"
+path : /sources/io/branch/referral/w.java
+- https://developer.apple.com/streaming/emsg-id3"
+path : /sources/com/google/android/exoplayer2/metadata/d/a.java
+- https://eu.account.amazon.com"
+path : /sources/h/b/a/a/a/n/c.java
+- https://facebook.com"
+path : /sources/com/facebook/internal/Utility.java
+- https://facebook.com/device?user_code=%1$s&qr=1"
+path : /sources/com/facebook/login/d.java
+- https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/%s/settings"
+path : /sources/com/google/firebase/crashlytics/internal/settings/d.java
+- https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch"
+path : /sources/com/google/firebase/remoteconfig/internal/ConfigFetchHttpClient.java
+- https://gdpr.adjust.com"
+path : /sources/com/adjust/sdk/AdjustFactory.java
+- https://gdpr.adjust.com"
+path : /sources/com/adjust/sdk/Constants.java
+- https://helpcenter.tubitv.com"
+path : /sources/com/tubitv/fragments/w.java
+- https://helpcenter.tubitv.com"
+path : /sources/h/h/l/c/c/b.java
+- https://legal-asset.tubi.tv/terms-of-use.html"
+path : /sources/com/tubitv/dialogs/e.java
+- https://legal-asset.tubi.tv/terms-of-use.html"
+path : /sources/com/tubitv/viewmodel/k.java
+- https://legal-asset.tubi.tv/terms-of-use.html"
+path : /sources/h/h/l/f/a.java
+- https://na.account.amazon.com"
+path : /sources/h/b/a/a/a/n/c.java
+- https://ott-androidtv.tubitv.com"
+path : /sources/h/h/q/i/c.java
+- https://ott-androidtv.tubitv.com"
+path : /sources/h/h/q/j/a.java
+- https://pagead2.googlesyndication.com/pagead/gen_204"
+path : /sources/com/google/ads/interactivemedia/pal/zzt.java
+- https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps"
+path : /sources/com/google/android/gms/ads/identifier/a.java
+- https://plus.google.com/"
+path : /sources/com/google/android/gms/common/internal/t0.java
+- https://popper-engine.production-public.tubi.io"
+path : /sources/com/tubitv/core/network/b.java
+- https://pubads.g.doubleclick.net/activity;dc_iu="
+path : /sources/com/google/ads/conversiontracking/g.java
+- https://pubads.g.doubleclick.net/activity;xsp="
+path : /sources/com/google/ads/conversiontracking/g.java
+- https://rainmaker.production-public.tubi.io/"
+path : /sources/h/h/e/a/f.java
+- https://rainmaker.production-public.tubi.io/rev/"
+path : /sources/h/h/e/a/f.java
+- https://reports.crashlytics.com/spi/v1/platforms/android/apps/%s/reports"
+path : /sources/com/google/firebase/crashlytics/internal/settings/f.java
+- https://sondheim.appboy.com/api/v3/"
+path : /sources/com/appboy/configuration/AppboyConfigurationProvider.java
+- https://ssl.google-analytics.com"
+path : /sources/com/google/android/gms/internal/gtm/s0.java
+- https://tubi-vpaid-player.tubitv.com/"
+path : /sources/com/tubitv/features/player/models/v.java
+- https://tubitv.com/"
+path : /sources/com/tubitv/core/deeplink/DeepLinkConsts.java
+- https://tubitv.com/"
+path : /sources/com/tubitv/core/deeplink/annotations/DeepLink.java
+- https://tubitv.com/"
+path : /sources/com/tubitv/viewmodel/o.java
+- https://tubitv.com/movies/"
+path : /sources/com/tubitv/core/deeplink/DeepLinkConsts.java
+- https://tubitv.com/series/"
+path : /sources/com/tubitv/core/deeplink/DeepLinkConsts.java
+- https://tubitv.com/static/support"
+path : /sources/com/tubitv/viewmodel/r.java
+- https://tubitv.com/static/support"
+path : /sources/com/tubitv/views/CoppaAgeClarificationView.java
+- https://uapi.adrise.tv"
+path : /sources/com/tubitv/core/network/e.java
+- https://uapi.adrise.tv"
+path : /sources/h/h/e/a/f.java
+- https://uapi.adrise.tv/cms/"
+path : /sources/com/tubitv/core/network/b.java
+- https://uapi.adrise.tv/matrix/"
+path : /sources/com/tubitv/core/network/b.java
+- https://uapi.adrise.tv/user_device/"
+path : /sources/com/tubitv/core/network/b.java
+- https://update.crashlytics.com/spi/v1/platforms/android/apps"
+path : /sources/com/google/firebase/crashlytics/internal/settings/f.java
+- https://update.crashlytics.com/spi/v1/platforms/android/apps/%s"
+path : /sources/com/google/firebase/crashlytics/internal/settings/f.java
+- https://user-queue.production-public.tubi.io"
+path : /sources/h/h/e/a/f.java
+- https://www.google.com"
+path : /sources/com/google/android/gms/measurement/internal/u6.java
+- https://www.googleadservices.com/pagead/conversion/"
+path : /sources/com/google/ads/conversiontracking/g.java
+- https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+path : /sources/com/google/android/gms/measurement/internal/s9.java
+- https://www.googleapis.com/auth/games"
+path : /sources/com/google/android/gms/auth/api/signin/GoogleSignInOptions.java
+- https://www.googleapis.com/auth/games_lite"
+path : /sources/com/google/android/gms/auth/api/signin/GoogleSignInOptions.java
+- java/lang/"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/kotlin/SignatureBuildingComponents.java
+- java/lang/"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- java/lang/Class"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/kotlin/JvmTypeFactoryImpl.java
+- java/lang/Object"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/kotlin/MethodSignatureMappingKt.java
+- java/lang/Object"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- java/lang/Void"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- java/lang/annotation/Annotation"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- java/util/"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/kotlin/SignatureBuildingComponents.java
+- java/util/"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- java/util/Collection"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/java/SpecialGenericSignatures.java
+- java/util/List"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/java/SpecialGenericSignatures.java
+- java/util/function/"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/kotlin/SignatureBuildingComponents.java
+- json/test_ads.json"
+path : /sources/com/tubitv/features/player/presenters/AdsFetcher.java
+- keypress/Back"
+path : /sources/com/tubitv/features/cast/commonlogics/a.java
+- live_programming/metadata"
+path : /sources/com/tubitv/core/api/interfaces/CcsApiInterface.java
+- login/refresh"
+path : /sources/com/tubitv/core/api/interfaces/UserTokenInterface.java
+- login/refresh"
+path : /sources/com/tubitv/core/network/g.java
+- me/permissions"
+path : /sources/com/facebook/b.java
+- me/staging_resources"
+path : /sources/com/facebook/share/internal/b.java
+- oauth/access_token"
+path : /sources/com/facebook/b.java
+- overrides.txt"
+path : /sources/com/google/android/gms/internal/measurement/w5.java
+- popper/evaluate-namespaces"
+path : /sources/com/tubitv/common/api/interfaces/PopperApi.java
+- popper/evaluate-namespaces"
+path : /sources/com/tubitv/core/api/interfaces/PopperApi.java
+- query/active-app"
+path : /sources/h/h/l/b/d/h.java
+- query/apps"
+path : /sources/h/h/l/b/d/h.java
+- ref/Reference"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/java/typeEnhancement/PredefinedEnhancementInfoKt.java
+- reflect/KFunction"
+path : /sources/kotlin/reflect/jvm/internal/impl/metadata/jvm/deserialization/ClassMapperLite.java
+- retrofit2/KotlinExtensions"
+path : /sources/retrofit2/KotlinExtensions$suspendAndThrow$1.java
+- search/search_suggest_query"
+path : /sources/com/tubitv/features/globalsearch/VoiceSearchProvider.java
+- stream/Stream"
+path : /sources/kotlin/reflect/jvm/internal/impl/load/java/typeEnhancement/PredefinedEnhancementInfoKt.java
+- v1/app-link-settings"
+path : /sources/io/branch/referral/s.java
+- v1/close"
+path : /sources/io/branch/referral/s.java
+- v1/content-events"
+path : /sources/io/branch/referral/s.java
+- v1/cpid"
+path : /sources/io/branch/referral/s.java
+- v1/cpid/latd"
+path : /sources/io/branch/referral/s.java
+- v1/credithistory"
+path : /sources/io/branch/referral/s.java
+- v1/credits/"
+path : /sources/io/branch/referral/s.java
+- v1/event"
+path : /sources/io/branch/referral/s.java
+- v1/install"
+path : /sources/io/branch/referral/s.java
+- v1/logout"
+path : /sources/io/branch/referral/s.java
+- v1/open"
+path : /sources/io/branch/referral/s.java
+- v1/profile"
+path : /sources/io/branch/referral/s.java
+- v1/redeem"
+path : /sources/io/branch/referral/s.java
+- v1/url"
+path : /sources/io/branch/referral/s.java
+- v2/event/custom"
+path : /sources/io/branch/referral/s.java
+- v2/event/standard"
+path : /sources/io/branch/referral/s.java
+- wss://voyager.production-public.tubi.io/socket/websocket/"
+path : /sources/com/tubitv/core/network/b.java
+- /proc/[pid]/stat'
+path : /sources/com/google/android/gms/internal/p001firebaseperf/c0.java
+

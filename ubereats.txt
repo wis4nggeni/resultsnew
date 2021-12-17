@@ -1,0 +1,157 @@
+[Generic_API_Key]
+- ApiKey" android:value="c539e979e5ca22fe420a5e6c91687d3b22b04e50"
+path : /resources/AndroidManifest.xml
+
+
+[LinkFinder]
+- /.*/food-delivery/.*/.*"
+path : /resources/AndroidManifest.xml
+- /.."
+path : /resources/AndroidManifest.xml
+- /..-.."
+path : /resources/AndroidManifest.xml
+- /..-../"
+path : /resources/AndroidManifest.xml
+- /..-../.*/food-delivery/.*/.*"
+path : /resources/AndroidManifest.xml
+- /..-../brand/.*"
+path : /resources/AndroidManifest.xml
+- /..-../closest/.*"
+path : /resources/AndroidManifest.xml
+- /..-../deals"
+path : /resources/AndroidManifest.xml
+- /..-../feed"
+path : /resources/AndroidManifest.xml
+- /..-../feed/"
+path : /resources/AndroidManifest.xml
+- /..-../giftcard"
+path : /resources/AndroidManifest.xml
+- /..-../giftcard/"
+path : /resources/AndroidManifest.xml
+- /..-../gifts/detail"
+path : /resources/AndroidManifest.xml
+- /..-../gifts/detail/"
+path : /resources/AndroidManifest.xml
+- /..-../gifts/redeem"
+path : /resources/AndroidManifest.xml
+- /..-../gifts/redeem/"
+path : /resources/AndroidManifest.xml
+- /..-../orders"
+path : /resources/AndroidManifest.xml
+- /..-../orders/.*/receipt"
+path : /resources/AndroidManifest.xml
+- /..-../payment/.*"
+path : /resources/AndroidManifest.xml
+- /..-../restaurant-rewards"
+path : /resources/AndroidManifest.xml
+- /..-../search"
+path : /resources/AndroidManifest.xml
+- /..-../search/"
+path : /resources/AndroidManifest.xml
+- /..-../ubercash/cashback/amex_corp"
+path : /resources/AndroidManifest.xml
+- /..-../ubercash/cashback/amex_corp/"
+path : /resources/AndroidManifest.xml
+- /..-../xlb/pharma"
+path : /resources/AndroidManifest.xml
+- /../"
+path : /resources/AndroidManifest.xml
+- /../.*/food-delivery/.*/.*"
+path : /resources/AndroidManifest.xml
+- /../brand/.*"
+path : /resources/AndroidManifest.xml
+- /../closest/.*"
+path : /resources/AndroidManifest.xml
+- /../deals"
+path : /resources/AndroidManifest.xml
+- /../feed"
+path : /resources/AndroidManifest.xml
+- /../feed/"
+path : /resources/AndroidManifest.xml
+- /../orders"
+path : /resources/AndroidManifest.xml
+- /../orders/.*/receipt"
+path : /resources/AndroidManifest.xml
+- /../payment/.*"
+path : /resources/AndroidManifest.xml
+- /../restaurant-rewards"
+path : /resources/AndroidManifest.xml
+- /../search"
+path : /resources/AndroidManifest.xml
+- /../search/"
+path : /resources/AndroidManifest.xml
+- /../xlb/pharma"
+path : /resources/AndroidManifest.xml
+- /app-install"
+path : /resources/AndroidManifest.xml
+- /brand/.*"
+path : /resources/AndroidManifest.xml
+- /closest/.*"
+path : /resources/AndroidManifest.xml
+- /deals"
+path : /resources/AndroidManifest.xml
+- /donation"
+path : /resources/AndroidManifest.xml
+- /feed"
+path : /resources/AndroidManifest.xml
+- /feed/"
+path : /resources/AndroidManifest.xml
+- /giftcard"
+path : /resources/AndroidManifest.xml
+- /giftcard/.*"
+path : /resources/AndroidManifest.xml
+- /gifts/detail"
+path : /resources/AndroidManifest.xml
+- /gifts/detail/.*"
+path : /resources/AndroidManifest.xml
+- /gifts/redeem"
+path : /resources/AndroidManifest.xml
+- /gifts/redeem/.*"
+path : /resources/AndroidManifest.xml
+- /group-orders/.*/join"
+path : /resources/AndroidManifest.xml
+- /invite"
+path : /resources/AndroidManifest.xml
+- /login-redirect"
+path : /resources/AndroidManifest.xml
+- /onboard-business-profile"
+path : /resources/AndroidManifest.xml
+- /orders"
+path : /resources/AndroidManifest.xml
+- /orders/.*/receipt"
+path : /resources/AndroidManifest.xml
+- /payment/.*"
+path : /resources/AndroidManifest.xml
+- /public/redeem-employee-invite"
+path : /resources/AndroidManifest.xml
+- /public/redeem-inapp-invite"
+path : /resources/AndroidManifest.xml
+- /restaurant-rewards"
+path : /resources/AndroidManifest.xml
+- /search"
+path : /resources/AndroidManifest.xml
+- /search-suggestions"
+path : /resources/AndroidManifest.xml
+- /search/"
+path : /resources/AndroidManifest.xml
+- /store/.*/.*"
+path : /resources/AndroidManifest.xml
+- /ubercash/cashback/amex_corp"
+path : /resources/AndroidManifest.xml
+- /ubercash/cashback/amex_corp/.*"
+path : /resources/AndroidManifest.xml
+- /xlb/pharma"
+path : /resources/AndroidManifest.xml
+- http://schemas.android.com/apk/res/android"
+path : /resources/AndroidManifest.xml
+- https://d1g1f25tn8m2e6.cloudfront.net/171ff01f-62cc-4a9e-af1e-8f5999c6a306.jpg"
+path : /resources/assets/billboard_playground.json
+- https://d1g1f25tn8m2e6.cloudfront.net/c681597e-a980-4080-89fa-78359c9cd60e.png"
+path : /resources/assets/billboard_playground.json
+- https://d1g1f25tn8m2e6.cloudfront.net/efd7b2e3-76d9-4ceb-8598-dd85bb2a5723.png"
+path : /resources/assets/billboard_playground.json
+- https://d4p17acsd5wyj.cloudfront.net/billboard/promo_billboard_image_v2%403x.png"
+path : /resources/assets/billboard_playground.json
+- https://play.google.com/store"
+path : /resources/AndroidManifest.xml
+
